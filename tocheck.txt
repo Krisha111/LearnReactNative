@@ -1,0 +1,5 @@
+increacolor with dispatch
+set counter with dispatch
+settext with name
+settext with password and verify if it is more than 4 or not
+Layout
